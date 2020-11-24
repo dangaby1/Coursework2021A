@@ -41,6 +41,9 @@ Problem - the bullets didn't kill the enemy at first and had no damage. I added 
 Instead of killing the enemy to get it to stop following the player, I wanted to make it so if the player manages to outrun the enemy, the enemy will stop following the player and go back to patrolling.
 Create a lot of If statements as to whether the player is out of sight or not 
 
+**11/11/20**
+Tutorial 3 - enemy attack. Once the enemy has spotted the player and is chasing them, when they are close enough (set parameter) they will attack the player (With projectiles?)
+
 **12/11/20**
 Now that the enemy stops following the player and has paremeters of whether it can see the player or not - I can add it projectiles for the enemy to shoot.
 
