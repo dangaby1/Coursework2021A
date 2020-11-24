@@ -4,6 +4,9 @@ Learning Journal
 Making the camera apart of the player and at its height to look like a FPS - making the camera a child object of the player so it moves with the player 
 No problems 
 
+**03/11/20**
+Tutorial 1 - Enemy AI pathfinding. Getting an object to patrol an area (walk around the area randomly) 
+
 **04/11/20**
 Character movement finished without any problems.
 Using the mouse to look around worked for up and down but wouldn't look side to side 
