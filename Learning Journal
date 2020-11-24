@@ -20,6 +20,9 @@ Shoot whenever the mouse is clicked
 
 Problem - the gun only ever shot the one bullet. I had to make a manager that instantiated a prefab of the bullets 
 
+**07/11/20**
+Enemy chasing player tutorial. When the enemy is patrolling and sees the player, it stops patrolling and chases the player.
+
 **08/11/20**
 Creating the Enemy AI. Firstly, getting the enemy character to patrol (walk around randomly) an area. Using NavMesh to map out the area the emeny can walk around 
 
