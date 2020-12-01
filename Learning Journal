@@ -70,4 +70,29 @@ Problem - the projectiles need to look like a cloud of smoke going throug the pl
 When the player does get hit and loses health, as I don't want health regeneration, there needs to be a way the player can get back health. 
 creating a health crate was very easy as the ammo crate is exactly the same but with a few bits of code changed. 
 
+**21/11/20**
+creating a main menu - adding in the buttons and their functions. 
+Problem - buttons didn't work at first but was becuase I had to add 'using UnityEngine scenemanagement' 
 
+**23/11/20**
+point and shoot minigame - crossheir sprite moved with the mouse but the cursor was still visible, fixed by bit of code to hide the cursor when in play 
+
+**24/11/20**
+restart button tutorial 
+
+**26/11/20**
+seperating stick minigame - coding a stick to grow along to z axis when mouse is pressed, pushing two cubes either side of it 
+problem - the stick goes through the cubes even though there are colliders on each object -- problem not solved 
+
+**27/11/20**
+sorting minigame - sorting coloured squares into bigger squares with the same colour, easy to set up a drag and drop system 
+problem - no winning parameter so I added in a restart button instead 
+
+**28/11/20**
+Programming project - putting together the tutorials to make a re-usable game package. The package would be Enemy AI
+
+**29/11/20**
+Programming project - Enemy AI that patrols, chases the player, then when close enough will attack the player, a restart button/call when the player dies
+
+**30/11/20**
+Restart button for 3DD project 
